@@ -2,7 +2,7 @@
   "onboarding": {
     "pages": [
       {
-        "html": "<img src='https://placehold.co/600x400/png'/><h1>Title to introduce the scope/goal of the app</h1><p>Brief description of what we are aiming aiming for and what we are not.<p>"
+        "html": "<img src='https://raw.githubusercontent.com/avblink/demovo-json-server/master/images/600x400.png'/><h1>Title to introduce the scope/goal of the app</h1><p>Brief description of what we are aiming aiming for and what we are not.<p>"
       },
       {
         "html": "<img src='https://placehold.co/600x200/png'/><h1>Title to introduce the scope/goal of the app</h1><p>Brief description of what we are aiming aiming for and what we are not.<p><p>Brief description of what we are aiming aiming for and what we are not.<p>"
