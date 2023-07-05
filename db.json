@@ -2,10 +2,16 @@
   "onboarding": {
     "pages": [
       {
-        "html": "<img src='https://raw.githubusercontent.com/avblink/demovo-json-server/master/images/onboarding-illustration-1.png'/><h1>Title to introduce the scope/goal of the app</h1><p>Brief description of what we are aiming aiming for and what we are not.<p>"
+        "html": "<img src='https://raw.githubusercontent.com/avblink/demovo-json-server/master/images/onboarding-illustration-1.png'/><h1>Title 1 to introduce the scope/goal of the app</h1><p>Brief description of what we are aiming aiming for and what we are not.<p>"
       },
       {
-        "html": "<img src='https://placehold.co/600x200/png'/><h1>Title to introduce the scope/goal of the app</h1><p>Brief description of what we are aiming aiming for and what we are not.<p><p>Brief description of what we are aiming aiming for and what we are not.<p>"
+        "html": "<img src='https://raw.githubusercontent.com/avblink/demovo-json-server/master/images/onboarding-illustration-2.png'/><h1>Title 2 to introduce the scope/goal of the app</h1><p>Brief description of what we are aiming aiming for and what we are not.<p>"
+      },
+      {
+        "html": "<img src='https://raw.githubusercontent.com/avblink/demovo-json-server/master/images/onboarding-illustration-3.png'/><h1>Title 3 to introduce the scope/goal of the app</h1><p>Brief description of what we are aiming aiming for and what we are not.<p>"
+      },
+      {
+        "html": "<img src='https://raw.githubusercontent.com/avblink/demovo-json-server/master/images/onboarding-illustration-4.png'/><h1>Title 4 to introduce the scope/goal of the app</h1><p>Brief description of what we are aiming aiming for and what we are not.<p>"
       }
     ]
   }
